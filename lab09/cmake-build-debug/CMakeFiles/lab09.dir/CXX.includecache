@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kenny/CLionProjects/lab09/rwg.cpp
+rwg.h
+C:/Users/kenny/CLionProjects/lab09/rwg.h
+ctime
+-
+cstdlib
+-
+
+C:/Users/kenny/CLionProjects/lab09/rwg.h
+iostream
+-
+string
+-
+map
+-
+vector
+-
+

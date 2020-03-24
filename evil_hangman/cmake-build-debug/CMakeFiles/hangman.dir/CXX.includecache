@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kenny/CLionProjects/evil_hangman/hangman.h
+string
+-
+set
+-
+vector
+-
+map
+-
+
+C:/Users/kenny/CLionProjects/evil_hangman/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+cctype
+-
+hangman.h
+C:/Users/kenny/CLionProjects/evil_hangman/hangman.h
+

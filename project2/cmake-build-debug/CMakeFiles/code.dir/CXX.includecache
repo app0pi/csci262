@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kenny/CLionProjects/project2/maze_solver.cpp
+maze_solver.h
+C:/Users/kenny/CLionProjects/project2/maze_solver.h
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Users/kenny/CLionProjects/project2/maze_solver.h
+iostream
+-
+vector
+-
+stack
+-
+queue
+-
+point.h
+C:/Users/kenny/CLionProjects/project2/point.h
+
+C:/Users/kenny/CLionProjects/project2/point.h
+iostream
+-
+vector
+-
+
